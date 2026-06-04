@@ -6,9 +6,7 @@
 # 👋 Hi, I'm Hemanth Tempalli
 
 ### AI/ML Research Enthusiast | Open Source Contributor – GirlScript Summer of Code (GSSoC) 2026 | Built Multiple End-to-End AI, GenAI, and Multi-Agent Systems
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8F%85+NPTEL+Foundations+of+Deep+Learning+(IISc+Bangalore)+%E2%80%93+Top+1%25+Nationwide+(93%25)++%F0%9F%8F%85+Alta+AI+Builders+Fellow++%F0%9F%8F%85+Research+Intern+at+IIITDM+Kancheepuram++%F0%9F%8F%85+Open+Source+Contributor+%E2%80%93+GirlScript+Summer+of+Code+(GSSoC)+2026++%F0%9F%8F%85+Built+Multiple+End-to-End+AI%2C+GenAI%2C+and+Multi-Agent+Systems)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=ML+for+Cybersecurity+%40+IIITDM+Kancheepuram;Generative+AI+%7C+Agentic+AI+%7C+RAG+Systems;Vision-Language+Models+%7C+LLM+Evaluation;NPTEL+Deep+Learning+%28IISc%29+%E2%80%93+Top+1%25+Nationwide+%2893%25%29)](https://readme-typing-svg.demolab.com)
 </div>
 
 ---
