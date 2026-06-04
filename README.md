@@ -116,7 +116,7 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-<!-- This section is automatically updated by the GitHub Actions workflow -->
+1. 💪 Opened PR [#391](https://github.com/param20h/PDF-Assistant-RAG/pull/391) in [param20h/PDF-Assistant-RAG](https://github.com/param20h/PDF-Assistant-RAG)
 <!--END_SECTION:activity-->
 
 ---
