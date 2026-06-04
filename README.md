@@ -7,7 +7,7 @@
 
 ### AI/ML Research Enthusiast | Open Source Contributor – GirlScript Summer of Code (GSSoC) 2026 | Built Multiple End-to-End AI, GenAI, and Multi-Agent Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=ML+for+Cybersecurity+%40+IIITDM+Kancheepuram;Generative+AI+%7C+Agentic+AI+%7C+RAG+Systems;Vision-Language+Models+%7C+LLM+Evaluation;Turning+Research+Ideas+into+Real-World+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=ML+for+Cybersecurity+%40+IIITDM+Kancheepuram;Generative+AI+%7C+Agentic+AI+%7C+RAG+Systems;Vision-Language+Models+%7C+LLM+Evaluation;NPTEL+Deep+Learning+%28IISc%29+%E2%80%93+Top+1%25+Nationwide+%2893%25%29)](https://readme-typing-svg.demolab.com)
 
 </div>
 
