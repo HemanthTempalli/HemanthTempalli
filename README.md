@@ -66,39 +66,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- Stats Card (auto-updates via GitHub's API) -->
-<img src="https://github-readme-stats.vercel.app/api?username=HemanthTempalli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" width="49%" />
-
-<!-- Streak Stats (auto-updates daily) -->
-<img src="https://streak-stats.demolab.com/?user=HemanthTempalli&theme=radical&hide_border=false" alt="GitHub Streak" width="49%" />
-
-</div>
-
-<div align="center">
-
-<!-- Top Languages (auto-updates) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthTempalli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" width="40%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- Trophy section (auto-updates) -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HemanthTempalli&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -119,17 +87,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-<!-- Pinned repos (update slugs below to your best repos) -->
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HemanthTempalli&repo=REPLACE_WITH_YOUR_REPO_1&theme=radical)](https://github.com/HemanthTempalli/REPLACE_WITH_YOUR_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HemanthTempalli&repo=REPLACE_WITH_YOUR_REPO_2&theme=radical)](https://github.com/HemanthTempalli/REPLACE_WITH_YOUR_REPO_2)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
