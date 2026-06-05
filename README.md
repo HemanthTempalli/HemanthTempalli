@@ -82,11 +82,11 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed to [HemanthTempalli/HemanthTempalli](https://github.com/HemanthTempalli/HemanthTempalli)
-- 🔨 Pushed to [HemanthTempalli/HemanthTempalli](https://github.com/HemanthTempalli/HemanthTempalli)
-- 🔨 Pushed to [HemanthTempalli/HemanthTempalli](https://github.com/HemanthTempalli/HemanthTempalli)
-- 🔨 Pushed to [HemanthTempalli/HemanthTempalli](https://github.com/HemanthTempalli/HemanthTempalli)
-- 🔨 Pushed to [HemanthTempalli/HemanthTempalli](https://github.com/HemanthTempalli/HemanthTempalli)
+- 🔨 Pushed to [HemanthTempalli/test](https://github.com/HemanthTempalli/test)
+- 🔀 Pull request in [HemanthTempalli/test](https://github.com/HemanthTempalli/test)
+- 🔀 Pull request in [HemanthTempalli/test](https://github.com/HemanthTempalli/test)
+- ✅ Created [HemanthTempalli/test](https://github.com/HemanthTempalli/test)
+- 🔨 Pushed to [HemanthTempalli/test](https://github.com/HemanthTempalli/test)
 <!--END_SECTION:activity-->
 
 ---
