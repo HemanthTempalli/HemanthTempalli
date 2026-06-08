@@ -82,11 +82,11 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- 🔀 Pull request in [param20h/PDF-Assistant-RAG](https://github.com/param20h/PDF-Assistant-RAG)
-- 🔨 Pushed to [HemanthTempalli/test](https://github.com/HemanthTempalli/test)
-- 🔀 Pull request in [HemanthTempalli/test](https://github.com/HemanthTempalli/test)
-- 🔀 Pull request in [HemanthTempalli/test](https://github.com/HemanthTempalli/test)
-- ✅ Created [HemanthTempalli/test](https://github.com/HemanthTempalli/test)
+- 🔨 Pushed to [HemanthTempalli/HemanthTempalli](https://github.com/HemanthTempalli/HemanthTempalli)
+- 🔨 Pushed to [HemanthTempalli/HemanthTempalli](https://github.com/HemanthTempalli/HemanthTempalli)
+- 🔨 Pushed to [HemanthTempalli/-Movie-Recommendation-System](https://github.com/HemanthTempalli/-Movie-Recommendation-System)
+- 🔨 Pushed to [HemanthTempalli/-Movie-Recommendation-System](https://github.com/HemanthTempalli/-Movie-Recommendation-System)
+- 🔨 Pushed to [HemanthTempalli/-Movie-Recommendation-System](https://github.com/HemanthTempalli/-Movie-Recommendation-System)
 <!--END_SECTION:activity-->
 
 ---
