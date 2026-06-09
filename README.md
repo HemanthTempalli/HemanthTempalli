@@ -82,11 +82,11 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed to [HemanthTempalli/HemanthTempalli](https://github.com/HemanthTempalli/HemanthTempalli)
-- 🔨 Pushed to [HemanthTempalli/HemanthTempalli](https://github.com/HemanthTempalli/HemanthTempalli)
-- 🔨 Pushed to [HemanthTempalli/-Movie-Recommendation-System](https://github.com/HemanthTempalli/-Movie-Recommendation-System)
-- 🔨 Pushed to [HemanthTempalli/-Movie-Recommendation-System](https://github.com/HemanthTempalli/-Movie-Recommendation-System)
-- 🔨 Pushed to [HemanthTempalli/-Movie-Recommendation-System](https://github.com/HemanthTempalli/-Movie-Recommendation-System)
+- 🔨 Pushed to [HemanthTempalli/credit-risk-platform](https://github.com/HemanthTempalli/credit-risk-platform)
+- 🔨 Pushed to [HemanthTempalli/credit-risk-platform](https://github.com/HemanthTempalli/credit-risk-platform)
+- 🔨 Pushed to [HemanthTempalli/credit-risk-platform](https://github.com/HemanthTempalli/credit-risk-platform)
+- 🔨 Pushed to [HemanthTempalli/credit-risk-platform](https://github.com/HemanthTempalli/credit-risk-platform)
+- 🔨 Pushed to [HemanthTempalli/credit-risk-platform](https://github.com/HemanthTempalli/credit-risk-platform)
 <!--END_SECTION:activity-->
 
 ---
