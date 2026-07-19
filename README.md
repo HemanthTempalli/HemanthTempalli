@@ -82,7 +82,7 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed to [HemanthTempalli/encrypted-traffic-malware-detection](https://github.com/HemanthTempalli/encrypted-traffic-malware-detection)
+- ⭐ Starred [openlake-project/openlake](https://github.com/openlake-project/openlake)
 - 🔨 Pushed to [HemanthTempalli/encrypted-traffic-malware-detection](https://github.com/HemanthTempalli/encrypted-traffic-malware-detection)
 - 🔨 Pushed to [HemanthTempalli/encrypted-traffic-malware-detection](https://github.com/HemanthTempalli/encrypted-traffic-malware-detection)
 - 🔨 Pushed to [HemanthTempalli/encrypted-traffic-malware-detection](https://github.com/HemanthTempalli/encrypted-traffic-malware-detection)
