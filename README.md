@@ -82,11 +82,11 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+- 🔀 Pull request in [AditixAnand/EduBridge](https://github.com/AditixAnand/EduBridge)
 - 🔨 Pushed to [HemanthTempalli/SentinelGrid](https://github.com/HemanthTempalli/SentinelGrid)
 - 🔨 Pushed to [HemanthTempalli/SentinelGrid](https://github.com/HemanthTempalli/SentinelGrid)
 - 🔨 Pushed to [HemanthTempalli/SentinelGrid](https://github.com/HemanthTempalli/SentinelGrid)
 - ✅ Created [HemanthTempalli/SentinelGrid](https://github.com/HemanthTempalli/SentinelGrid)
-- ⭐ Starred [openlake-project/openlake](https://github.com/openlake-project/openlake)
 <!--END_SECTION:activity-->
 
 ---
