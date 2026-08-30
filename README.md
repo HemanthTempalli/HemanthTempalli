@@ -82,7 +82,7 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- 🔀 Pull request in [AditixAnand/EduBridge](https://github.com/AditixAnand/EduBridge)
+- No recent public activity found.
 <!--END_SECTION:activity-->
 
 ---
