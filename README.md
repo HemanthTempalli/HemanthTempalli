@@ -82,7 +82,8 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- No recent public activity found.
+- 🔨 Pushed to [HemanthTempalli/speech-enhancement](https://github.com/HemanthTempalli/speech-enhancement)
+- ✅ Created [HemanthTempalli/speech-enhancement](https://github.com/HemanthTempalli/speech-enhancement)
 <!--END_SECTION:activity-->
 
 ---
