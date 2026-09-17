@@ -82,6 +82,7 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+- ✅ Created [HemanthTempalli/Ai-study-companion](https://github.com/HemanthTempalli/Ai-study-companion)
 - 🔨 Pushed to [HemanthTempalli/speech-enhancement](https://github.com/HemanthTempalli/speech-enhancement)
 - ✅ Created [HemanthTempalli/speech-enhancement](https://github.com/HemanthTempalli/speech-enhancement)
 <!--END_SECTION:activity-->
