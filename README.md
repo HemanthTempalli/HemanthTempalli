@@ -82,9 +82,11 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+- 🔨 Pushed to [HemanthTempalli/Study_companion](https://github.com/HemanthTempalli/Study_companion)
+- 🔨 Pushed to [HemanthTempalli/Study_companion](https://github.com/HemanthTempalli/Study_companion)
+- 🔨 Pushed to [HemanthTempalli/Study_companion](https://github.com/HemanthTempalli/Study_companion)
+- ✅ Created [HemanthTempalli/Study_companion](https://github.com/HemanthTempalli/Study_companion)
 - ✅ Created [HemanthTempalli/Ai-study-companion](https://github.com/HemanthTempalli/Ai-study-companion)
-- 🔨 Pushed to [HemanthTempalli/speech-enhancement](https://github.com/HemanthTempalli/speech-enhancement)
-- ✅ Created [HemanthTempalli/speech-enhancement](https://github.com/HemanthTempalli/speech-enhancement)
 <!--END_SECTION:activity-->
 
 ---
