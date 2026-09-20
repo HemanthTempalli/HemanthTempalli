@@ -83,10 +83,10 @@
 
 <!--START_SECTION:activity-->
 - 🔨 Pushed to [HemanthTempalli/Study_companion](https://github.com/HemanthTempalli/Study_companion)
+- ⭐ Starred [HemanthTempalli/Study_companion](https://github.com/HemanthTempalli/Study_companion)
 - 🔨 Pushed to [HemanthTempalli/Study_companion](https://github.com/HemanthTempalli/Study_companion)
 - 🔨 Pushed to [HemanthTempalli/Study_companion](https://github.com/HemanthTempalli/Study_companion)
-- ✅ Created [HemanthTempalli/Study_companion](https://github.com/HemanthTempalli/Study_companion)
-- ✅ Created [HemanthTempalli/Ai-study-companion](https://github.com/HemanthTempalli/Ai-study-companion)
+- 🔨 Pushed to [HemanthTempalli/Study_companion](https://github.com/HemanthTempalli/Study_companion)
 <!--END_SECTION:activity-->
 
 ---
