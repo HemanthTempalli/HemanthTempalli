@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Profile Views Counter (auto-updates) -->
-![Profile Views](https://komarev.com/ghpvc/?username=HemanthTempalli&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 # 👋 Hi, I'm Hemanth Tempalli
 
