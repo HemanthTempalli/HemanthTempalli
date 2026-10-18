@@ -5,15 +5,15 @@
 
 # 👋 Hi, I'm Hemanth Tempalli
 
-### AI/ML Research Enthusiast | Open Source Contributor – GirlScript Summer of Code (GSSoC) 2026 | Built Multiple End-to-End AI, GenAI, and Multi-Agent Systems
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=ML+for+Cybersecurity+%40+IIITDM+Kancheepuram;Generative+AI+%7C+Agentic+AI+%7C+RAG+Systems;Vision-Language+Models+%7C+LLM+Evaluation;NPTEL+Deep+Learning+%28IISc%29+%E2%80%93+Top+1%25+Nationwide+%2893%25%29)](https://readme-typing-svg.demolab.com)
+### AI/ML Research Enthusiast | Amazon ML Summer School 2026 | Open Source Contributor – GirlScript Summer of Code (GSSoC) 2026 | Built Multiple End-to-End AI, GenAI, and Multi-Agent Systems
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Former+Summer+Research+Intern+%40+IIITDM+Kancheepuram;Amazon+ML+Summer+School+2026;Generative+AI+%7C+Agentic+AI+%7C+RAG+Systems;Vision-Language+Models+%7C+LLM+Evaluation;NPTEL+Deep+Learning+%28IISc%29+%E2%80%93+93%25)](https://readme-typing-svg.demolab.com)
 </div>
 
 ---
 
 ## 💫 About Me
 
-- 🔭 Currently working on **ML for Cybersecurity Research** at IIITDM Kancheepuram
+- 🔭 EX - Reseasrch Intern  **ML for Cybersecurity Research** at IIITDM Kancheepuram
 - 👯 Looking to collaborate on **Generative AI, AI Research, and Open Source projects**
 - 🤝 Seeking help with **AI Research, Vision-Language Models (VLMs), Research Publications, and Advanced Deep Learning**
 - 🌱 Currently learning **Agentic AI, Advanced RAG Systems, Multimodal Foundation Models, and LLM Evaluation**
