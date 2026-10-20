@@ -81,6 +81,7 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+- ✅ Created [HemanthTempalli/1_simple_QA_chatbot](https://github.com/HemanthTempalli/1_simple_QA_chatbot)
 - 🔨 Pushed to [HemanthTempalli/HemanthTempalli](https://github.com/HemanthTempalli/HemanthTempalli)
 - 🔨 Pushed to [HemanthTempalli/HemanthTempalli](https://github.com/HemanthTempalli/HemanthTempalli)
 - ✅ Created [HemanthTempalli/warehouse-demand-attention](https://github.com/HemanthTempalli/warehouse-demand-attention)
