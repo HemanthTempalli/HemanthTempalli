@@ -81,7 +81,7 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- ✅ Created [HemanthTempalli/1_simple_QA_chatbot](https://github.com/HemanthTempalli/1_simple_QA_chatbot)
+- No recent public activity found.
 <!--END_SECTION:activity-->
 
 ---
